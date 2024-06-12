@@ -1,0 +1,5 @@
+train: C:\Users\ilias\Documents\Computer vision\euroshop\euroshop\euroshop_dataset\train.txt
+val: C:\Users\ilias\Documents\Computer vision\euroshop\euroshop\euroshop_dataset\val.txt
+test: C:\Users\ilias\Documents\Computer vision\euroshop\euroshop\euroshop_dataset\test.txt
+nc: 6
+names: ['bag', 'cart', 'hand', 'head', 'person', 'product']
